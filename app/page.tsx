@@ -107,7 +107,7 @@ export default function Home() {
                     animate={{ scale: [1, 1.02, 1] }}
                     transition={{ repeat: Infinity, duration: 2 }}
                   >
-                    Hola, Cabezo 💖
+                    Hola, Cabezona 💖
                   </motion.h1>
                   <motion.p
                     className="text-xl md:text-2xl text-gray-700 mb-8 max-w-2xl mx-auto"
@@ -115,7 +115,7 @@ export default function Home() {
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.3 }}
                   >
-                    Marta, este sitio lo hice especialmente para ti, porque eres lo más especial en mi vida
+                   Este sitio lo hice especialmente para ti, porque eres lo más especial en mi vida
                   </motion.p>
                   <LoveCounter />
                 </div>

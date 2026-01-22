@@ -9,10 +9,10 @@ export default function LoveLetters() {
   const letters = [
     {
       id: 1,
-      title: 'Para Ti, Cabezo',
+      title: 'Para Ti, Cabezona',
       emoji: '💌',
       content:
-        'Marta, cada día que pasa me enamoro más de ti. Tu sonrisa ilumina mis días, tu risa es la melodía más hermosa que he escuchado. Eres mi persona favorita, mi mejor amiga, mi todo. Desde aquel 2 de octubre, mi vida tiene más sentido. Te amo más de lo que las palabras pueden expresar.',
+        'Marta, cada día que pasa me enamoro más de ti. Eres mi persona favorita, mi mejor amiga, mi vida. Te amo más de lo que las palabras pueden expresar.',
     },
     {
       id: 2,
